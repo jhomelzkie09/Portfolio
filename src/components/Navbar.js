@@ -9,6 +9,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';
 import { Link } from 'react-scroll';
 import { motion } from 'framer-motion';
+import  resume  from '../assets/resume.pdf';
 
 const menuItems = ['About', 'Skills', 'Projects', 'Contact'];
 
@@ -166,7 +167,7 @@ const Navbar = () => {
               >
                 <Box
                   component="a"
-                  href="/resume.pdf"
+                  href={resume}
                   target="_blank"
                   rel="noopener noreferrer"
                   sx={{
