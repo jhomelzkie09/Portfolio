@@ -530,7 +530,7 @@ const Contact = () => {
             Or reach me directly at{' '}
             <Box
               component="a"
-              href="mailto:your.email@example.com"
+              href="mailto:jhomelelisan@gmail.com"
               sx={{
                 color: '#7F77DD',
                 textDecoration: 'none',
@@ -540,7 +540,7 @@ const Contact = () => {
                 },
               }}
             >
-              your.email@example.com
+              jhomelelisan@gmail.com
             </Box>
           </Box>
         </motion.div>
