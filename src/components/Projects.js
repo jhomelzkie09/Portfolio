@@ -21,7 +21,7 @@ const projects = [
     title: 'Time Tracker',
     description:
       'A clean, minimal time tracking app for logging AM/PM work sessions. Supports shift selection, live elapsed time, session history, and daily/total hour summaries.',
-    url: 'https://time-tracker-zeta-nine.vercel.app/',
+    url: 'https://time-tracker-elisan.vercel.app/',
     tech: ['React', 'LocalStorage', 'CSS', 'Utility Tool'],
     gradient: 'linear-gradient(135deg, #0f1e14 0%, #0d2218 50%, #0a3320 100%)',
     featured: false,
